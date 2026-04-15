@@ -1,4 +1,4 @@
 # hello-world
 From the Hello World tutorial
-I am a student at Ohio University
-I like to play the trumpet
+\nI am a student at Ohio University
+\nI like to play the trumpet
